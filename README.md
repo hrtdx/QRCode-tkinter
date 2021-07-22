@@ -1,6 +1,7 @@
 # QRCode-tkinter
 
 A simple tkinter-based GUI program that generates a QR Code. Equipped with a registration feature that is connected to the local sqlite3 database for user statistical analysis.
+Tested and work on Python 3.7.9
 
 ## Module Used
 
